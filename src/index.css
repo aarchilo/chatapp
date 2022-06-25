@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+button:hover{
+  background-color: gray;
+  color: white;
+}
+button{
+  background:white;
+  color:gray;
+  border-radius: 2em;
+  font-family: cursive;
+ border-radius: 4em;
+  border: none;
+}
